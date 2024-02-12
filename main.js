@@ -45,3 +45,4 @@ const constructInsult = () => {
 
 console.log(constructInsult())
 
+const getInsult= () => document.getElementById("insult").innerHTML = constructInsult()
