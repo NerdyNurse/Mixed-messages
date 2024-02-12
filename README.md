@@ -1,11 +1,16 @@
 This is an insult generator
 ==========================
-This code is made as a solution to the CodeCademy.com protfolio project: *mixed messages*
+**This code is for you if:**
+- you work in a hostile enviornment and need a quick comeback
+- you just got bitten by your parrot for the 1 millionth time
+- you lack basic imagination, but rolled a bard in dnd anyways
+
+
 
 How does it work?
 ----------------
 
-Every time the program is run it logs a new, randomly generated message.
+Every time the program is run it logs a new, randomly generated insult.
 
 
 ### The message cosists of:
@@ -27,3 +32,7 @@ Every time the program is run it logs a new, randomly generated message.
 
 ### Example Message:
 > Your mother is an uneducated potato.
+
+
+
+This code is made as a solution to the CodeCademy.com protfolio project: *mixed messages*
