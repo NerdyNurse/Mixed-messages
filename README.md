@@ -23,6 +23,7 @@ Every time the program is run it logs a new, randomly generated message.
 4. an object
 
     ex "horse"
+    *currently doesnt work with plurals*
 
 ### Example Message:
 > Your mother is an uneducated potato.
