@@ -1,0 +1,18 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "creates random insults",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/NerdyNurse/Mixed-messages"
+  },
+  "author": "NerdyNurse",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}

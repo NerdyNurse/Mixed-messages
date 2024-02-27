@@ -46,3 +46,6 @@ const constructInsult = () => {
 console.log(constructInsult())
 
 const getInsult= () => document.getElementById("insult").innerHTML = constructInsult()
+
+module.exports.getRandom = getRandom;
+module.exports.targets = targets;
